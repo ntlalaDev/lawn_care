@@ -6,14 +6,18 @@ import { Layout, Menu, Button, Card, Form, Input, Modal, Tabs, Typography, Row, 
 import { MenuOutlined, CrownOutlined } from '@ant-design/icons'
 
 import Image from 'next/image'
-import grassIMG from '/app/assets/img/grass.jpg'
-import grassCut2IMG from '/app/assets/img/grassCut1.jpg'
-import grassCut1IMG from '/app/assets/img/grassCut2.jpg'
-import flowerCareIMG from '/app/assets/img/flowerCare.jpg'
-import leavesCutIMG from '/app/assets/img/leavesCut.jpg'
-import pruning2IMG from '/app/assets/img/pruning2.jpg'
-import prunningIMG from '/app/assets/img/prunning.jpg'
-import treepruneIMG from '/app/assets/img/treeprune.jpg'
+import grassIMG from '/assets/img/grass.jpg'
+import grassCut2IMG from '/assets/img/grassCut1.jpg'
+import grassCut1IMG from '/assets/img/grassCut2.jpg'
+import flowerCareIMG from '/assets/img/flowerCare.jpg'
+import leavesCutIMG from '/assets/img/leavesCut.jpg'
+import pruning2IMG from '/assets/img/pruning2.jpg'
+import prunningIMG from '/assets/img/prunning.jpg'
+import treepruneIMG from '/assets/img/treeprune.jpg'
+
+import grassCut1IMG from '/assets/img/grassCut1.jpg'
+import grassCut2IMG from '/assets/img/grassCut2.jpg'
+
 
 const { Header, Content, Footer } = Layout
 const { Title, Paragraph } = Typography
