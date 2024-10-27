@@ -15,8 +15,6 @@ import pruning2IMG from '/assets/img/pruning2.jpg'
 import prunningIMG from '/assets/img/prunning.jpg'
 import treepruneIMG from '/assets/img/treeprune.jpg'
 
-import grassCut1IMG from '/assets/img/grassCut1.jpg'
-import grassCut2IMG from '/assets/img/grassCut2.jpg'
 
 
 const { Header, Content, Footer } = Layout
